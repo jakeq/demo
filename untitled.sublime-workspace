@@ -1,0 +1,433 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"welc",
+				"welcome#index"
+			],
+			[
+				"events",
+				"events_url"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"wh",
+				"who_am_i"
+			],
+			[
+				"w",
+				"while	while ... end"
+			],
+			[
+				"cla",
+				"cla	class .. < ParentClass .. initialize .. end"
+			],
+			[
+				"welcome",
+				"welcome#index"
+			],
+			[
+				"lin",
+				"linpp	link_to (nested path plural)"
+			],
+			[
+				"pag",
+				"page_to_fetch"
+			],
+			[
+				"loo",
+				"lookup"
+			],
+			[
+				"wor",
+				"WordIndex"
+			],
+			[
+				"ph",
+				"phrase"
+			],
+			[
+				"p",
+				"phrases"
+			],
+			[
+				"class",
+				"private_class_method"
+			],
+			[
+				"son",
+				"Song"
+			],
+			[
+				"do",
+				"dob	Insert do |variable| … end"
+			],
+			[
+				"ass",
+				"assert_nil"
+			],
+			[
+				"delet",
+				"delete_last"
+			],
+			[
+				"ap",
+				"append"
+			],
+			[
+				"song",
+				"songs"
+			],
+			[
+				"lo",
+				"logger"
+			],
+			[
+				"M",
+				"MAX_TIME"
+			],
+			[
+				"play",
+				"play"
+			],
+			[
+				"pl",
+				"play"
+			],
+			[
+				"dur",
+				"duration_in_minutes"
+			],
+			[
+				"du",
+				"duration_in_minutes"
+			],
+			[
+				"new",
+				"new_duration_in_minutes"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/jack/GitHub/ruby-getting-started/Gemfile",
+			"settings":
+			{
+				"buffer_size": 1354,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"sideb",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"ints",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"ruby",
+				"Snippet: #!/usr/bin/env ruby -wKU"
+			],
+			[
+				"hsl",
+				"HSL: Convert Selected RGB to HSL"
+			],
+			[
+				"",
+				"HSL: Convert All RGB to HSL"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"ls",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jack/GitHub/ruby-getting-started/app",
+		"/Users/jack/GitHub/ruby-getting-started/app/views",
+		"/Users/jack/GitHub/ruby-getting-started/app/views/welcome"
+	],
+	"file_history":
+	[
+		"/Users/jack/GitHub/ruby-getting-started/app/views/welcome/index.erb",
+		"/Users/jack/GitHub/ruby-getting-started/.env",
+		"/Users/jack/GitHub/myapp/config/routes.rb",
+		"/Users/jack/GitHub/myapp/app/views/welcome/index.html.erb",
+		"/Users/jack/GitHub/demo/config/database.yml",
+		"/Users/jack/GitHub/demo/Gemfile",
+		"/Users/jack/GitHub/demo/config/routes.rb",
+		"/Users/jack/GitHub/demo/app/controllers/welcome_controller.rb",
+		"/Users/jack/GitHub/demo/app/views/welcome/say.html.erb",
+		"/Users/jack/GitHub/demo/app/views/welcome/index.html.erb",
+		"/Users/jack/rails4/config/mongoid.yml",
+		"/Users/jack/rails4/config/secrets.yml",
+		"/Users/jack/rails4/app/models/post.rb",
+		"/Users/jack/GitHub/webservice/demo/app/views/welcome/say.html.erb",
+		"/Users/jack/GitHub/webservice/demo/app/views/welcome/index.html.erb",
+		"/Users/jack/Library/Application Support/Sublime Text 3/Packages/Terminal/Default (OSX).sublime-keymap",
+		"/Users/jack/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/jack/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/Users/jack/Rails_Jack_WorkSpace/demo/app/controllers/events_controller.rb",
+		"/Users/jack/Rails_Jack_WorkSpace/demo/app/views/events/edit.html.erb",
+		"/Users/jack/Rails_Jack_WorkSpace/demo/app/views/events/new.html.erb",
+		"/Users/jack/Rails_Jack_WorkSpace/demo/app/views/events/show.html.erb",
+		"/Users/jack/Rails_Jack_WorkSpace/demo/app/views/events/index.html.erb",
+		"/Users/jack/Rails_Jack_WorkSpace/demo/config/routes.rb",
+		"/Users/jack/Rails_Jack_WorkSpace/demo/app/views/layouts/application.html.erb",
+		"/Users/jack/Ruby_jack_workspace/debug.rb",
+		"/Users/jack/Ruby_jack_workspace/my.rb",
+		"/Users/jack/Rails_Jack_WorkSpace/demo/app/views/welcome/index.html.erb",
+		"/Users/jack/Rails_Jack_WorkSpace/demo/app/controllers/welcome_controller.rb",
+		"/Users/jack/Rails_Jack_WorkSpace/demo/app/views/welcome/say.html.erb",
+		"/private/etc/profile",
+		"/Users/jack/Downloads/untitled.sh",
+		"/bin/tomcat.sh",
+		"/tomcat",
+		"/bin/bash",
+		"/Users/jack/Downloads/eclipse/artifacts.xml",
+		"/Library/Tomcat/webapps/ROOT/WEB-INF/web.xml",
+		"/Library/Tomcat/webapps/ROOT/build.xml",
+		"/Library/Tomcat/webapps/ROOT/tomcat.css",
+		"/Library/Tomcat/conf/server.xml",
+		"/Applications/MyEclipse/MyEclipse 10.app/Contents/Profile/myeclipse.app/Contents/Info.plist",
+		"/Users/jack/Downloads/Mac所有软件/Mac软件/Myeclipse 2014/[myeclipse.10.0.更新发布(破解更新)].MyEclipse10cr/run.bat",
+		"/Users/jack/Ruby_jack_workspace/grape.rb",
+		"/Users/jack/Rails_Jack_WorkSpace/Depot/public/stylesheets/depot.css",
+		"/Users/jack/Rails_Jack_WorkSpace/Depot/db/seeds.rb",
+		"/Users/jack/Rails_Jack_WorkSpace/Depot/app/views/products/_form.html.erb",
+		"/Users/jack/Rails_Jack_WorkSpace/Depot/app/controllers/products_controller.rb",
+		"/Users/jack/Rails_Jack_WorkSpace/Depot/test/fixtures/products.yml",
+		"/Users/jack/Rails_Jack_WorkSpace/Depot/db/migrate/20150212013000_create_products.rb",
+		"/Users/jack/Rails_Jack_WorkSpace/Depot/app/views/products/show.html.erb",
+		"/Users/jack/Rails_Jack_WorkSpace/Depot/app/views/products/index.json.jbuilder",
+		"/Users/jack/Rails_Jack_WorkSpace/Depot/app/views/products/index.html.erb",
+		"/Users/jack/Rails_Jack_WorkSpace/Depot/app/views/products/show.json.jbuilder",
+		"/Users/jack/Rails_Jack_WorkSpace/demo/app/controllers/say_controller.rb",
+		"/Users/jack/Rails_Jack_WorkSpace/demo/app/views/say/goodbye.html.erb",
+		"/Users/jack/Rails_Jack_WorkSpace/demo/app/views/say/hello.html.erb",
+		"/Users/jack/hello/test/controllers/.keep",
+		"/Users/jack/test.rb",
+		"/Users/jack/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/jack/hello/test/test_helper.rb",
+		"/Users/jack/Library/Application Support/Sublime Text 3/Packages/BeautifyRuby/BeautifyRuby.sublime-settings",
+		"/Users/jack/.rvm/rubies/ruby-head/lib/ruby/site_ruby/2.3.0/rubygems/core_ext/kernel_require.rb",
+		"/Users/jack/songdata",
+		"/Users/jack/my.rb",
+		"/Users/jack/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jack/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/jack/Library/Application Support/Sublime Text 3/Packages/BeautifyRuby/Default (OSX).sublime-keymap",
+		"/Users/jack/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Event",
+			"event",
+			"Event",
+			"])\n",
+			"params",
+			"Event",
+			"		@event = Event.find(params[:id])",
+			"])\n",
+			"span",
+			"\n<"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/Users/jack/GitHub/ruby-getting-started"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/jack/GitHub/ruby-getting-started/Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1354,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								43,
+								43
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
