@@ -116,10 +116,18 @@
 	"buffers":
 	[
 		{
-			"file": "/Users/jack/GitHub/ruby-getting-started/Gemfile",
+			"file": "app/views/welcome/index.html.erb",
 			"settings":
 			{
-				"buffer_size": 1354,
+				"buffer_size": 237,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/welcome/say.html.erb",
+			"settings":
+			{
+				"buffer_size": 114,
 				"line_ending": "Unix"
 			}
 		}
@@ -189,18 +197,23 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/jack/GitHub/ruby-getting-started/app",
-		"/Users/jack/GitHub/ruby-getting-started/app/views",
-		"/Users/jack/GitHub/ruby-getting-started/app/views/welcome"
+		"/Users/jack/GitHub/demo",
+		"/Users/jack/GitHub/demo/app",
+		"/Users/jack/GitHub/demo/app/views",
+		"/Users/jack/GitHub/demo/app/views/welcome",
+		"/Users/jack/GitHub/demo/db"
 	],
 	"file_history":
 	[
+		"/Users/jack/GitHub/demo/Procfile",
+		"/Users/jack/GitHub/demo/Gemfile",
+		"/Users/jack/GitHub/demo/config/database.yml",
+		"/Users/jack/GitHub/ruby-getting-started/Gemfile",
+		"/Users/jack/GitHub/ruby-getting-started/Procfile",
 		"/Users/jack/GitHub/ruby-getting-started/app/views/welcome/index.erb",
 		"/Users/jack/GitHub/ruby-getting-started/.env",
 		"/Users/jack/GitHub/myapp/config/routes.rb",
 		"/Users/jack/GitHub/myapp/app/views/welcome/index.html.erb",
-		"/Users/jack/GitHub/demo/config/database.yml",
-		"/Users/jack/GitHub/demo/Gemfile",
 		"/Users/jack/GitHub/demo/config/routes.rb",
 		"/Users/jack/GitHub/demo/app/controllers/welcome_controller.rb",
 		"/Users/jack/GitHub/demo/app/views/welcome/say.html.erb",
@@ -308,35 +321,63 @@
 	[
 		{
 			"follow_symlinks": true,
-			"path": "/Users/jack/GitHub/ruby-getting-started"
+			"path": "/Users/jack/GitHub/demo"
 		}
 	],
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/jack/GitHub/ruby-getting-started/Gemfile",
+					"file": "app/views/welcome/index.html.erb",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1354,
+						"buffer_size": 237,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								43,
-								43
+								84,
+								84
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/views/welcome/say.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 114,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								114,
+								114
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
